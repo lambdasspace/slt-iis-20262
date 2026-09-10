@@ -35,7 +35,7 @@ Una vez terminado el trabajo correspondiente a la práctica, deberán comprobar 
 $ make test
 ```
 
-Este comando cumple, para nuestras prácticas en C, una función equivalente a `mvn test` en proyectos Java con Maven: compila el código necesario y ejecuta el conjunto de pruebas definido para la práctica.
+Este comando compila el código necesario y ejecuta el conjunto de pruebas definido para la práctica.
 
 Recuerden que si hay advertencias al compilar, se considera como si no compilara.
 
