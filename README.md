@@ -4,8 +4,11 @@
 
 ### Prácticas
 
-* Práctica 1: Diseño de una base de datos de estudiantes
-  (Entrega: 3 de septiembre de 2026)
+* [Práctica 1: Diseño de una base de datos de estudiantes](practica01)   
+  Entrega: 3 de septiembre de 2026
+
+* [Práctica 2: Conjuntos](practica02)   
+   Entrega: 24 de septiembre de 2026
 
 ### Formato de entrega
 
