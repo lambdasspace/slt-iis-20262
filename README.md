@@ -8,7 +8,10 @@
   Entrega: 3 de septiembre de 2026
 
 * [Práctica 2: Conjuntos](practica02)   
-   Entrega: 24 de septiembre de 2026
+   Entrega: 28 de septiembre de 2026
+
+* [Práctica 3: Conjunto de estudiantes](practica03)<br>
+  Entrega: 12 de octubre de 2026
 
 ### Formato de entrega
 
