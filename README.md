@@ -13,6 +13,11 @@
 * [Práctica 3: Conjunto de estudiantes](practica03)<br>
   Entrega: 12 de octubre de 2026
 
+### Proyecto final
+
+* [Proyecto final: Base de datos de otro dominio](proyectofinal)<br>
+  Entrega: Por definir (semanas de certificación, del 30 de noviembre al 11 de diciembre de 2026)
+
 ### Formato de entrega
 
 Las prácticas estarán disponibles en este repositorio. Para trabajar y entregar las prácticas deberán seguir el procedimiento que corresponda.
